@@ -7,7 +7,8 @@ Solving a series of important programming questions to demonstrate the understan
 - Open a new Jupyter Notebook.
 - In your Jupyter Notebook, you can import your functions like this:
 ```python
-from Py_Project_1_due_1020.ipynb import pascal
+## (Might have to use 'nbconvert' in order to import notebook)
+from Py_Project_1_due_1020 import pascal
 ```
 - Use the function on your input. (Example: This returns the 5th row of the pascal triangle)
 ```python
